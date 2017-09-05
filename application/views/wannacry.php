@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>WannaCry V 2.0.0</title>
+	<title>WannaCry V 2.0.02</title>
 <style type="text/css">
 	html,body{
     margin:0;
