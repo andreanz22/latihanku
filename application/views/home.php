@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
+<title>Pemilu</title>
 </head>
 
 <body style="background-image: url('<?php echo base_url('foto/bg.jpg');?>');">
